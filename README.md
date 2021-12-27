@@ -5,8 +5,8 @@ This utility originally published in [this](https://github.com/wyldckat/wallHeat
 
 1. Clone the repository and go into the cloned repository:
 ```
-git clone https://github.com/drhcelikphd/wallHeatFluxIncompressible_ofdev.git
-cd wallHeatFluxIncompressible_ofdev
+git clone https://github.com/drhcelikphd/wallHeatFluxIncompressible_dev.git
+cd wallHeatFluxIncompressible_dev
 ```
 
 2. Build ```wallHeatFluxIncompressible``` by running:
